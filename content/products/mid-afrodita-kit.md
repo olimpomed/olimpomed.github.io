@@ -1,20 +1,20 @@
 ---
-title: "Taba Facewash"
-date: 2019-10-17T11:22:16+06:00
+title: "Kit Afrodita (mediano)"
+date: 2024-04-12T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "Amor propio, fortalece tu autoestima y el respeto personal. Conecta profundamente contigo."
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "30.000"
+priceBefore: "35.000"
 
 # Product Short Description
 shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
 
 #product ID
-productID: "6"
+productID: "3"
 
 # type must be "products"
 type: "products"
@@ -22,7 +22,7 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/product-5.png"
+  - image: "images/products/product-1.png"
   - image: "images/products/product-2.png"
   - image: "images/products/product-3.png"
   - image: "images/products/product-4.png"

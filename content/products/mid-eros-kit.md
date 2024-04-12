@@ -1,20 +1,20 @@
 ---
-title: "Taba Shampoo"
-date: 2019-10-17T11:22:16+06:00
+title: "Kit Eros (mediano)"
+date: 2024-04-12T11:22:16+06:00
 draft: false
 
 # meta description
-description : "For Glowing Skin"
+description : "Frtalece la conexión, fomentando confianza, respeto y afecto. Ideal para revitalizar el amor"
 
 # product Price
-price: "20.00"
-priceBefore: "25.00"
+price: "30.000"
+priceBefore: "35.000"
 
 # Product Short Description
 shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
 
 #product ID
-productID: "9"
+productID: "2"
 
 # type must be "products"
 type: "products"
@@ -22,9 +22,9 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/product-6.png"
-  - image: "images/products/product-2.png"
   - image: "images/products/product-3.png"
+  - image: "images/products/product-2.png"
+  - image: "images/products/product-1.png"
   - image: "images/products/product-4.png"
 ---
 

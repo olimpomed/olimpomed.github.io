@@ -1,19 +1,14 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
+  title : "Hola, somos Olimpo!"
+  content : "Donde creemos profundamente en el poder de la intención y la manifestación para transformar la vida de las personas"
   image : "images/banner.png"
   # button
   button:
     enable : true
-    label : "All Products"
+    label : "Nuestros Productos"
     link : "products/"
-  # demo video
-  video:
-    enable : true
-    videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
 ########################## About ##############################
 about:
@@ -33,31 +28,31 @@ cta:
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
-    label : "All Products"
+    label : "Nuestros Productos"
     link : "products/"
 
 ######################## raw material #######################
 material:
   enable : true
-  title : "Ingredients Of Our Products"
+  title : "Ingredientes de Nuestros Productos"
   subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dol."
   materialItem:
     # material item loop
-    - title : "Matcha Seeds"
-      image : "images/material/material-1.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
-      
+    - title : "Karité"
+      image : "images/material/material-1.jpg"
+      content : "Hidratación profunda y nutrición a la piel, suavidad y flexiblilidad."
+
     # material item loop
     - title : "Aloe Vera"
       image : "images/material/material-2.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
-      
+
     # material item loop
     - title : "Turmeric"
       image : "images/material/material-3.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
-      
+
     # material item loop
     - title : "Tulshi leaf"
       image : "images/material/material-4.png"
@@ -92,14 +87,14 @@ video:
 ######################## Products #############################
 products:
   enable : true
-  title : "Products List"
+  title : "Lista de Productos"
   # product item comes from "content/products"
 
 
 ########################## Testimonial ########################
 testimonial:
   enable : true
-  title : "What People Are Saying <br> About Our Product"
+  title : "Lo que dice la gente <br> Acerca de nuestro producto"
   testimonialItem:
     # testimonial item loop
     - name : "Angelo Perara"
@@ -107,21 +102,21 @@ testimonial:
       designation : "CEO, Dialogue Broad Band"
       content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
       rating : "five" # rating star, one to five
-      
+
     # testimonial item loop
     - name : "Riya Ventila"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
       content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
       rating : "three" # rating star, one to five
-      
+
     # testimonial item loop
     - name : "john Doe"
       image : "images/clients/client-3.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
       content : "Lorem ipsum dolor sit amet, <br> consetetur sadipscing elitr, diam <br> nonumy eirmod tempor"
       rating : "five" # rating star, one to five
-      
+
     # testimonial item loop
     - name : "Riya Ventila"
       image : "images/clients/client-2.jpg" # size 100px*100px
