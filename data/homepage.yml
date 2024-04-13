@@ -46,17 +46,17 @@ material:
     # material item loop
     - title : "Coco"
       image : "images/material/material-2.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Hidratación intensa y rápida absorción, ofrece propiedades anti-microbianas que protegen la piel."
 
     # material item loop
     - title : "Soja"
       image : "images/material/material-4.jpeg"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Rico en vitamina E, suaviza y repara la piel, mejora la hidratación y elasticidad."
 
     # material item loop
     - title : "Esencias Naturales"
       image : "images/material/material-3.png"
-      content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
+      content : "Aromaterapia que mejoran el estado de ánimo, propiedades anti-inflamatorias y anti-bacterianas"
 
 ########################### Advantage #########################
 advantage:
