@@ -23,8 +23,8 @@ about:
 ###################### Call to action ########################
 cta:
   enable : true
-  title : "Buy one Get One Free Taba Cream"
-  content : "Available for limited time only. Grab one while you still can!"
+  title : "Adquiere un kit y recibe de regalo una cerámica para tus velas"
+  content : "Esta promoción es exclusiva para nuestro kit de tamaño grande"
   image : "images/cta.png"
   overlayImage : "images/cta-overlay.png"
   button:
@@ -35,8 +35,7 @@ cta:
 material:
   enable : true
   title : "Ingredientes de Nuestros Productos"
-  subtitle : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dol."
+  subtitle : ""
   materialItem:
     # material item loop
     - title : "Karité"
@@ -61,25 +60,23 @@ material:
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  title : "Ventajas de usar <br> Nuestro producto"
+  subtitle : ""
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+    - listItem : "Alivia las tensiones cotidianas"
+    - listItem : "Ayuda a relajar cuerpo y mente"
+    - listItem : "Adaptado a las metas personales de cada cliente"
+    - listItem : "Ideal para espacios individuales, en pareja o en familia"
+    - listItem : "Permite enfocarse en el ahora, manteniendo en vista los objetivos futuros"
 
 
 ######################## Promo Video ##########################
 video:
   enable : true
-  title : "How To Use This Product?"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et."
+  title : "¿Cómo usar nuestros productos?"
+  content : "Observa este video para descubrir todo lo que puedes lograr con nuestro kit. Aprende cómo usar cada elemento para maximizar tu bienestar y disfrutar de cada momento"
   videoThumb : "images/video-thumb.jpg"
   videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
 
