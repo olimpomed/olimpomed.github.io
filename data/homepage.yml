@@ -49,13 +49,13 @@ material:
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
 
     # material item loop
-    - title : "Café"
-      image : "images/material/material-3.png"
+    - title : "Soja"
+      image : "images/material/material-4.jpeg"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
 
     # material item loop
-    - title : "Soja"
-      image : "images/material/material-4.jpeg"
+    - title : "Esencias Naturales"
+      image : "images/material/material-3.png"
       content : "Lorem ipsum dolor sit amet,be consetetur sadipscing elitr, sed diam nonumy eirmod tem"
 
 ########################### Advantage #########################
