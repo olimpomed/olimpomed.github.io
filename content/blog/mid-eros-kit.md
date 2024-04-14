@@ -3,24 +3,39 @@ title: "Guia : Kit Eros"
 date: 2024-04-11T11:22:16+06:00
 draft: false
 description : "this is a meta description"
-image: "images/blog/post-1.jpg"
+image: "images/blog/post-7.webp"
 author: "Olimpo Medellin"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+# Instrucciones para el Uso del Kit para Pareja
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+**Contenido del Kit:**
+1. Dos velas aromáticas de colores.
+2. Una vela de masajes.
+3. Una bandeja de cerámica.
+4. Dos jabones artesanales.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+### Paso 1: Creación del Ambiente Romántico
+- **Ubica** la bandeja de cerámica en un lugar seguro y cómodo de tu hogar, ideal para compartir con tu pareja.
+- **Elige** el tipo de experiencia romántica que deseas crear. Enciende las velas según el ambiente que quieras lograr:
+  - **Velas aromáticas**: Perfectas para llenar el espacio con un aroma que invite al relax y a la intimidad.
+  - **Vela de masajes**: Ideal para una sesión de masajes cálidos y relajantes en pareja.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+### Paso 2: Uso y Conexión
+- **Preparación del masaje**: Enciende la vela de masajes al menos 10 minutos antes para que la cera se derrita adecuadamente y esté lista para usar.
+- **Masaje en pareja**: Uno de los dos puede comenzar realizando un masaje al otro con la cera tibia, utilizando movimientos suaves y relajantes. Luego, intercambien roles para que ambos disfruten de la experiencia.
 
-> And yes, it does attach an image of you selecting a text on Medium instead of just quoting the text. What a mess with blog.
+> Para complementar este momento, te sugerimos seguir una [meditación guiada para parejas](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s), diseñada para fortalecer la conexión y la intimidad.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+Y en el caso de necesitarlo **Aprende más sobre masajes**; Visita el siguiente enlace donde encontrarás un video instructivos sobre cómo [realizarle un masajes](#) a tu pareja.
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+- **Higiene post-masaje**: Utiliza los jabones artesanales para lavar suavemente la piel uno del otro, lo que añade un momento íntimo y cuidadoso al final del masaje.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+### Recomendaciones Generales:
+- **Mantén** las velas fuera del alcance de niños y mascotas.
+- **No dejes** las velas encendidas sin supervisión.
+- **Asegúrate** de que el área alrededor de las velas esté libre de materiales inflamables.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+### Cuidado y Mantenimiento:
+- **Limpia** la bandeja de cerámica regularmente para evitar la acumulación de cera y asegurar su durabilidad.
+- **Guarda** el kit en un lugar fresco y seco para mantener la calidad de las velas y los jabones, y así poder disfrutar de momentos románticos en cualquier ocasión.

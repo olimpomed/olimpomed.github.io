@@ -7,7 +7,7 @@
     <div class="row">
       {{ $paginator := .Paginate .Data.Pages }}
       {{ range $paginator.Pages }}
-      <div class="col-lg-8 mx-auto mb-5">
+      <div class="col-lg-8 mx-auto mb-2">
         <article class="card rounded-0 border-0">
           <!--<img src="{{ .Params.Image | absURL }}" alt="{{ .Title | markdownify }}" class="card-img-top rounded-top-0">-->
           <div class="card-body px-0">

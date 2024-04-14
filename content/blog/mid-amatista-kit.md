@@ -1,9 +1,9 @@
 ---
-title: "Guia : Kit Amatista"
+title: "Guia : Kit Eirene"
 date: 2024-04-11T11:22:16+06:00
 draft: false
 description : "this is a meta description"
-image: "images/blog/post-1.jpg"
+image: "images/blog/post-1.webp"
 author: "Olimpo Medellin"
 ---
 
@@ -24,7 +24,7 @@ author: "Olimpo Medellin"
 ### Paso 2: Uso y Beneficios
 - **Preparación**: Recomendamos encender la vela de masajes al menos 10 minutos antes de comenzar la sesión para permitir que la cera se derrita adecuadamente.
 
-Posterior a esto disponte para realizar una [meditacion guiada](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s), para ello te brindaremos un audio; Especialmente pensado para que tengas un  espacio de tranquilidad, paz y armonia que estas buscando incentivar.
+> Posterior a esto disponte para realizar una [meditacion guiada](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s), para ello te brindaremos un audio; Especialmente pensado para que tengas un  espacio de tranquilidad, paz y armonia que estas buscando incentivar.
 
 - **Aplica** la cera tibia con suaves masajes en las áreas deseadas.
 
