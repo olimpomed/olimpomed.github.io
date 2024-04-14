@@ -1,13 +1,14 @@
 ---
-title: "Guia : Kit Afrodita"
+title: "Guia : Kit Eirene"
 date: 2024-04-11T11:22:16+06:00
 draft: false
 description : "this is a meta description"
-image: "images/blog/post-2.webp"
+image: "images/blog/post-1.webp"
 author: "Olimpo Medellin"
 ---
 
-# Instrucciones para el Uso del Kit de Amor Propio y Auto Reflexión
+# Instrucciones para el Uso del Kit de Bienestar y Relajación
+
 **Contenido del Kit:**
 1. Dos velas aromáticas de colores.
 2. Una vela de masajes.
@@ -15,17 +16,17 @@ author: "Olimpo Medellin"
 4. Un jabón artesanal.
 
 ### Paso 1: Preparación del Espacio
-- **Ubica**  la bandeja de cerámica en un lugar seguro y estable de tu hogar que te inspire a la introspección y la calma.
+- **Ubica** la bandeja de cerámica en un lugar seguro y estable de tu hogar donde desees relajarte.
 - **Decide** el tipo de experiencia que deseas tener. Enciende una de las velas según tu necesidad:
   - **Velas aromáticas**: Ideales para un momento de aromaterapia y meditación.
   - **Vela de masajes**: Perfecta para una sesión de masajes relajantes.
 
 ### Paso 2: Uso y Beneficios
-- **Preparación**: Recomendamos encender la vela de masajes al menos 10 minutos antes de comenzar la sesión para permitir que la cera se derrita adecuadamente. Esto no solo prepara el material para el masaje, sino que también te permite empezar a centrarte y a conectar contigo mismo.
+- **Preparación**: Recomendamos encender la vela de masajes al menos 10 minutos antes de comenzar la sesión para permitir que la cera se derrita adecuadamente.
 
-> Considera realizar una [meditación guiada]() mientras esperas. Este momento puede ser un puente hacia la introspección y fortalecimiento del amor propio.
+> Posterior a esto disponte para realizar una [meditacion guiada](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s), para ello te brindaremos un audio; Especialmente pensado para que tengas un  espacio de tranquilidad, paz y armonia que estas buscando incentivar.
 
-- **Aplica** la cera tibia para darte un masaje, explorando las áreas que requieran atención y cuidado. Este acto de autocuidado es una forma de honrar y apreciar tu cuerpo.
+- **Aplica** la cera tibia con suaves masajes en las áreas deseadas.
 
 Y en el caso de necesitarlo **Aprende más sobre masajes**; Visita el siguiente enlace donde encontrarás videos instructivos sobre cómo [realizar masajes](#) a otra persona y cómo darte un [automasaje](#).
 
