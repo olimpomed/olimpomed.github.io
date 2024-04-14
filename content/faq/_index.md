@@ -1,10 +1,10 @@
 ---
-title: "FAQ"
-date: 2019-10-17T11:22:16+06:00
+title: "Preguntas Frecuentes"
+date: 2024-04-13T11:22:16+06:00
 draft: false
 description : "this is a meta description"
 ---
 
-### Frequently Asked Questions
+### Preguntas Frecuentes
 
-Below FAQ are some common concerns of our clients before purchasing the <br> theme, if you have other questions, please just send it to demo@email.com
+A continuación, encontrarás las Preguntas Frecuentes, que abordan algunas de las dudas más comunes de nuestros clientes antes de adquirir nuestros kits. <br> Si tienes otras preguntas, no dudes en enviarlas a olimpo.med.co@gmail.com

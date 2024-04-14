@@ -96,7 +96,7 @@ unsafe = true
   weight = 2
 
   [[menu.main]]
-  name = "FAQ"
+  name = "Preg. Frecuentes"
   URL = "faq/"
   weight = 3
 
@@ -117,7 +117,7 @@ unsafe = true
   weight = 2
 
   [[menu.footer]]
-  name = "FAQ"
+  name = "Preg. Frecuentes"
   URL = "faq/"
   weight = 3
 
