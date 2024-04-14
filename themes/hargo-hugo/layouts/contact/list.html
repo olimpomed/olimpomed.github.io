@@ -47,16 +47,6 @@
 </section>
 {{ end }}
 
-{{ if site.Data.contact.map.enable }}
-<section class="section pt-0">
-  <div class="container">
-    <div id="map_canvas" data-latitude="{{ with site.Params.mapLatitude }} {{ . }} {{ end }}"
-      data-longitude="{{ with site.Params.mapLongitude }} {{ . }} {{ end }}"
-      data-marker="{{ with site.Params.mapMarker }} {{ . | absURL }} {{ end }}" data-marker-name="{{ site.Title }}"></div>
-  </div>
-</section>
-{{ end }}
-
 {{ partial "cta.html" . }}
 
 {{ end }}

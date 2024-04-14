@@ -9,15 +9,15 @@ contact:
 
   # opennig hour
   opennigHour:
-    title : "Opening Hours"
+    title : "Horario"
     dayTimeList:
-      - dayTime : "Monday: 9:00 – 19:00"
-      - dayTime : "Tuesday: 9:00 – 19:00"
-      - dayTime : "Wednesday: 9:00 – 19:00"
-      - dayTime : "Thursday: 9:00 – 19:00"
-      - dayTime : "Friday: 9:00 – 19:00"
-      - dayTime : "Saturday: 9:00 – 19:00"
-      - dayTime : "sunday: 9:00 – 19:00"
+      - dayTime : "Lunes: 9:00 – 19:00"
+      - dayTime : "Martes: 9:00 – 19:00"
+      - dayTime : "Miercoles: 9:00 – 19:00"
+      - dayTime : "Jueves: 9:00 – 19:00"
+      - dayTime : "Viernes: 9:00 – 19:00"
+      - dayTime : "Sabado: 9:00 – 19:00"
+      - dayTime : "Domingo: 9:00 – 19:00"
 
 ####################### google map ########################
 map:

@@ -7,20 +7,38 @@ image: "images/blog/post-1.jpg"
 author: "Olimpo Medellin"
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+# Instrucciones para el Uso del Kit de Bienestar y Relajación
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+**Contenido del Kit:**
+1. Dos velas aromáticas de colores.
+2. Una vela de masajes.
+3. Una bandeja de cerámica.
+4. Un jabón artesanal.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+### Paso 1: Preparación del Espacio
+- **Ubica** la bandeja de cerámica en un lugar seguro y estable de tu hogar donde desees relajarte.
+- **Decide** el tipo de experiencia que deseas tener. Enciende una de las velas según tu necesidad:
+  - **Velas aromáticas**: Ideales para un momento de aromaterapia y meditación.
+  - **Vela de masajes**: Perfecta para una sesión de masajes relajantes.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+### Paso 2: Uso y Beneficios
+- **Preparación**: Recomendamos encender la vela de masajes al menos 10 minutos antes de comenzar la sesión para permitir que la cera se derrita adecuadamente.
 
-> And yes, it does attach an image of you selecting a text on Medium instead of just quoting the text. What a mess with blog.
+Posterior a esto disponte para realizar una [meditacion guiada](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s), para ello te brindaremos un audio; Especialmente pensado para que tengas un  espacio de tranquilidad, paz y armonia que estas buscando incentivar.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore
+- **Aplica** la cera tibia con suaves masajes en las áreas deseadas.
 
-aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Y en el caso de necesitarlo **Aprende más sobre masajes**; Visita el siguiente enlace donde encontrarás videos instructivos sobre cómo [realizar masajes](#) a otra persona y cómo darte un [automasaje](#).
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+- **Higiene post-masaje**: Si lo deseas, utiliza el jabón proporcionado para lavar la piel después del masaje. Esto ayudará a que la piel se sienta más fresca y libre.
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilis
+Prepara una toalla y un lugar adecuado para mojar el jabón, facilitando el proceso de limpieza después del masaje.
+
+### Recomendaciones Generales:
+- **Mantén** las velas fuera del alcance de niños y mascotas.
+- **No dejes** las velas encendidas sin supervisión.
+- **Asegúrate** de que el área alrededor de las velas esté libre de materiales inflamables.
+
+### Cuidado y Mantenimiento:
+- **Limpia** la bandeja de cerámica regularmente para evitar la acumulación de cera.
+- **Guarda** el kit en un lugar fresco y seco para preservar la calidad de las velas y el jabón.
