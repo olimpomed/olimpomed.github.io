@@ -14,9 +14,7 @@ banner:
 about:
   enable : true
   title : "Acerca de nuestro producto"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
+  content : "Cada uno de nuestros kits está diseñado para enriquecer tu vida, ya sea buscando paz, amor, prosperidad, o conexión. Únete a nosotros en este viaje de bienestar emocional y descubrimiento personal. Porque más que productos, ofrecemos una experiencia significativa para tu vida. "
   image : "images/about.png"
 
 
