@@ -4,7 +4,7 @@ date: 2024-04-12T11:22:16+06:00
 draft: false
 
 # meta description
-description : "Frtalece la conexión, fomentando confianza, respeto y afecto. Ideal para revitalizar el amor"
+description : "Fortalece la conexión, fomentando confianza, respeto y afecto. Ideal para revitalizar el amor"
 
 # product Price
 price: "30.000"
@@ -22,8 +22,8 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/mid-eros-kit-3.png"
   - image: "images/products/mid-eros-kit-2.png"
+  - image: "images/products/mid-eros-kit-3.png"
   - image: "images/products/mid-eros-kit-1.png"
 ---
 
