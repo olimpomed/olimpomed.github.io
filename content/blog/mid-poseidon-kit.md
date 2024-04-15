@@ -7,7 +7,7 @@ image: "images/blog/post-5.webp"
 author: "Olimpo Medellin"
 ---
 
-# Instrucciones para el Uso del Kit para Potenciar la Felicidad y la Creatividad
+# Instrucciones para el Uso del Kit para Viajes y Aventuras
 
 **Contenido del Kit:**
 1. Dos velas aromáticas de colores.

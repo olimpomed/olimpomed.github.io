@@ -26,7 +26,9 @@ author: "Olimpo Medellin"
 - **Aplica** la cera tibia con suaves masajes en las áreas deseadas.
 
 ### Paso 3: Meditación y Autoconocimiento
-> Inicia una meditación guiada siguiendo [este enlace](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s). Este audio está diseñado para proporcionarte un espacio de tranquilidad, paz y armonía, incentivando la clarificación de tu mente y afinación de tu voz interior, ayudándote a encontrar las respuestas y la dirección que buscas en tu vida.
+> Inicia una meditación guiada siguiendo [este enlace](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s). Este audio está diseñado para proporcionarte un espacio que incentiva la clarificación de tu mente.
+
+Afinando tu voz interior, ayudándote a encontrar las respuestas y la dirección que buscas en tu vida.
 
 ### Recursos Adicionales:
 - **Aprende más sobre masajes**: Visita los siguientes enlaces donde encontrarás videos instructivos sobre cómo [realizar masajes](#) a otra persona y cómo darte un [automasaje](#).

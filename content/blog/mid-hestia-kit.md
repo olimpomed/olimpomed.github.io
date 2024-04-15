@@ -7,7 +7,7 @@ image: "images/blog/post-3.webp"
 author: "Olimpo Medellin"
 ---
 
-# Instrucciones para el Uso del Kit de Bienestar y Relajación enfocado en la Purificación y Limpieza
+# Instrucciones para el Uso del Kit enfocado en la Purificación y Limpieza
 
 **Contenido del Kit:**
 1. Dos velas aromáticas de colores.
