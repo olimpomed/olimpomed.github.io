@@ -1,7 +1,7 @@
 ---
 title: "Guia : Kit Eirene"
 date: 2024-04-11T11:22:16+06:00
-draft: false
+draft: true
 description : "this is a meta description"
 image: "images/blog/post-1.webp"
 author: "Olimpo Medellin"
