@@ -27,7 +27,7 @@ author: "Olimpo Medellin"
 
 > Para complementar este momento, te sugerimos seguir una [meditación guiada para parejas](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s), diseñada para fortalecer la conexión y la intimidad.
 
-Y en el caso de necesitarlo **Aprende más sobre masajes**; Visita el siguiente enlace donde encontrarás un video instructivos sobre cómo [realizarle un masajes](#) a tu pareja.
+Y en el caso de necesitarlo **Aprende más sobre masajes**; Visita el siguiente enlace donde encontrarás un video instructivos sobre cómo [realizarle un masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) a tu pareja.
 
 - **Higiene post-masaje**: Utiliza los jabones artesanales para lavar suavemente la piel uno del otro, lo que añade un momento íntimo y cuidadoso al final del masaje.
 
