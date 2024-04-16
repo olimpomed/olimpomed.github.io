@@ -4,14 +4,14 @@ date: 2024-04-12T11:22:16+06:00
 draft: false
 
 # meta description
-description : "Algo"
+description : "Atraer la abundancia y la riqueza"
 
 # product Price
 price: "30.000"
 priceBefore: "35.000"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "Atraer la abundancia y la riqueza"
 
 #product ID
 productID: "2"
