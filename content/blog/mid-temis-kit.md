@@ -28,7 +28,7 @@ author: "Olimpo Medellin"
 
 - **Aplica** la cera tibia con movimientos ligeros y estimulantes sobre las áreas que requieran un impulso energético, facilitando la conexión con tu yo creativo.
 
-Para **explorar técnicas de masaje que estimulen la creatividad**, consulta los enlaces proporcionados donde encontrarás tutoriales sobre cómo [realizar masajes](#) a otra persona y técnicas efectivas de [automasaje](#).
+Para **explorar técnicas de masaje que estimulen la creatividad**, consulta los enlaces proporcionados donde encontrarás tutoriales sobre cómo [realizar masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) a otra persona y técnicas efectivas de [automasaje](#).
 
 - **Higiene post-masaje**: Emplea el jabón artesanal para limpiar la piel, dejándola fresca y lista para seguir explorando tus proyectos creativos.
 

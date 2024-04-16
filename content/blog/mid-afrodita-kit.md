@@ -23,11 +23,11 @@ author: "Olimpo Medellin"
 ### Paso 2: Uso y Beneficios
 - **Preparación**: Recomendamos encender la vela de masajes al menos 10 minutos antes de comenzar la sesión para permitir que la cera se derrita adecuadamente. Esto no solo prepara el material para el masaje, sino que también te permite empezar a centrarte y a conectar contigo mismo.
 
-> Considera realizar una [meditación guiada]() mientras esperas. Este momento puede ser un puente hacia la introspección y fortalecimiento del amor propio.
+> Considera realizar una [meditación guiada](https://www.youtube.com/watch?v=_aIjLbCd92U&t=8s) mientras esperas. Este momento puede ser un puente hacia la introspección y fortalecimiento del amor propio.
 
 - **Aplica** la cera tibia para darte un masaje, explorando las áreas que requieran atención y cuidado. Este acto de autocuidado es una forma de honrar y apreciar tu cuerpo.
 
-Y en el caso de necesitarlo **Aprende más sobre masajes**; Visita el siguiente enlace donde encontrarás videos instructivos sobre cómo [realizar masajes](#) a otra persona y cómo darte un [automasaje](#).
+Y en el caso de necesitarlo **Aprende más sobre masajes**; Visita el siguiente enlace donde encontrarás videos instructivos sobre cómo [realizar masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) a otra persona y cómo darte un [automasaje](#).
 
 - **Higiene post-masaje**: Si lo deseas, utiliza el jabón proporcionado para lavar la piel después del masaje. Esto ayudará a que la piel se sienta más fresca y libre.
 

@@ -31,7 +31,7 @@ author: "Olimpo Medellin"
 Afinando tu voz interior, ayudándote a encontrar las respuestas y la dirección que buscas en tu vida.
 
 ### Recursos Adicionales:
-- **Aprende más sobre masajes**: Visita los siguientes enlaces donde encontrarás videos instructivos sobre cómo [realizar masajes](#) a otra persona y cómo darte un [automasaje](#).
+- **Aprende más sobre masajes**: Visita los siguientes enlaces donde encontrarás videos instructivos sobre cómo [realizar masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) a otra persona y cómo darte un [automasaje](#).
 - **Higiene post-masaje**: Utiliza el jabón proporcionado para lavar la piel después del masaje, facilitando el proceso de limpieza y dejando la piel fresca y libre.
 
 ### Recomendaciones Generales:
