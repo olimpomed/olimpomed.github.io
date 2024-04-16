@@ -74,9 +74,9 @@ advantage:
 video:
   enable : true
   title : "¿Cómo usar nuestros productos?"
-  content : "Observa este video para descubrir todo lo que puedes lograr con nuestro kit. Aprende cómo usar cada elemento para maximizar tu bienestar y disfrutar de cada momento"
-  videoThumb : "images/video-thumb.jpg"
-  videoURL : "https://www.youtube.com/embed/wf4F2-9UXUo"
+  content : "Mira este video para explorar una de las múltiples meditaciones guiadas que ofrecemos, cada una diseñada para complementar nuestros diversos kits. Encuentra la sesión perfecta para ti y descubre cómo puede mejorar tu bienestar diario."
+  videoThumb : "images/video.png"
+  videoURL : "https://www.youtube.com/watch?v=4E4xl87Dcr8&t=1s"
 
 
 ######################## Products #############################

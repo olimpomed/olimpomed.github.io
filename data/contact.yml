@@ -3,8 +3,10 @@ contact:
   enable : true
   # office
   office:
-    title : "Central Office"
-    content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+    title : "Oficina Central"
+    content : "Ubicados en Medellín, realizamos envíos a nivel nacional. Consulta nuestros precios competitivos y las condiciones según el lugar de entrega y el tamaño del pedido. Estamos aquí para ayudarte con cualquier información que necesites y para hacer tu experiencia de compra lo más fácil posible.
+
+¡Esperamos tu mensaje!"
     # other information comes from "config.toml"
 
   # opennig hour
