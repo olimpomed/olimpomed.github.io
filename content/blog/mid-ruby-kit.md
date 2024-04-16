@@ -24,7 +24,7 @@ author: "Olimpo Medellin"
 ### Paso 2: Uso y Beneficios
 - **Preparación**: Recomendamos encender la vela de masajes al menos 10 minutos antes de comenzar la sesión para permitir que la cera se derrita adecuadamente.
 
-> Después de esto, disponte para realizar una [meditación guiada sobre la abundancia](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s), proporcionada en un audio especial para fomentar un espacio de tranquilidad, paz y armonía, que además incentiva una mentalidad de prosperidad y éxito financiero.
+> Después de esto, disponte para realizar una [meditación guiada sobre la abundancia](https://www.youtube.com/watch?v=EZMVaSChGQ8), proporcionada en un audio especial para fomentar un espacio de tranquilidad, paz y armonía, que además incentiva una mentalidad de prosperidad y éxito financiero.
 
 - **Aplica** la cera tibia con suaves masajes en las áreas deseadas mientras visualizas tus metas de abundancia.
 
