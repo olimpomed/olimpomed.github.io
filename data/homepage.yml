@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "Hola, somos Olimpo!"
   content : "Donde creemos profundamente en el poder de la intención y la manifestación para transformar la vida de las personas"
-  image : "images/banner.png"
+  image : "images/products-list-1.png"
   # button
   button:
     enable : true
@@ -15,7 +15,7 @@ about:
   enable : true
   title : "Acerca de nuestro producto"
   content : "Cada uno de nuestros kits está diseñado para enriquecer tu vida, ya sea buscando paz, amor, prosperidad, o conexión. Únete a nosotros en este viaje de bienestar emocional y descubrimiento personal. Porque más que productos, ofrecemos una experiencia significativa para tu vida. "
-  image : "images/about.png"
+  image : "images/products-list-2.png"
 
 
 ###################### Call to action ########################
@@ -23,7 +23,7 @@ cta:
   enable : true
   title : "Adquiere un kit y recibe de regalo una cerámica para tus velas"
   content : "Esta promoción es exclusiva para nuestro kit de tamaño grande"
-  image : "images/cta.png"
+  image : "images/promotion.png"
   overlayImage : "images/cta-overlay.png"
   button:
     label : "Nuestros Productos"
@@ -60,7 +60,7 @@ advantage:
   enable : true
   title : "Ventajas de usar <br> Nuestro producto"
   subtitle : ""
-  image : "images/advantage.png"
+  image : "images/products-list-3.png"
   advantageList:
     # advantage list loop
     - listItem : "Alivia las tensiones cotidianas"
