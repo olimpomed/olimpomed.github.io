@@ -24,7 +24,7 @@ author: "Olimpo Medellin"
 ### Paso 2: Uso y Beneficios
 - **Preparación**: Enciende la vela de masajes al menos 10 minutos antes de comenzar la sesión para permitir que la cera se derrita adecuadamente y emita su efecto purificador.
 
-> Inicia una sesión de meditación guiada con nuestro audio especial, diseñado para crear un espacio de tranquilidad, paz y armonía. [Meditación guiada](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s).
+> Inicia una sesión de meditación guiada con nuestro audio especial, diseñado para crear un espacio de tranquilidad, paz y armonía. [Meditación guiada](https://www.youtube.com/watch?v=VEfhFS09TFU).
 
 - **Aplica** la cera tibia con suaves masajes en las áreas deseadas para purificar y relajar el cuerpo.
 
