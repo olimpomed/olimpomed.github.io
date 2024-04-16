@@ -28,7 +28,7 @@ author: "Olimpo Medellin"
 
 - **Aplica** la cera tibia con suaves masajes en las áreas deseadas para purificar y relajar el cuerpo.
 
-En caso de necesitarlo, **aprende más sobre masajes**; visita los enlaces donde encontrarás videos instructivos sobre cómo [realizar masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) a otra persona y cómo darte un [automasaje](#).
+En caso de necesitarlo, **aprende más sobre masajes**; visita los enlaces donde encontrarás videos instructivos sobre cómo [realizar masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) a otra persona y cómo darte un [automasaje](https://www.youtube.com/watch?v=Z8PuwqxEn-8&t=228s).
 
 - **Higiene post-masaje**: Utiliza el jabón artesanal para lavar la piel después del masaje. Este paso es crucial para eliminar impurezas y dejar la piel fresca y renovada.
 

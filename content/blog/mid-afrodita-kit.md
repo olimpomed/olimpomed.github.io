@@ -27,7 +27,7 @@ author: "Olimpo Medellin"
 
 - **Aplica** la cera tibia para darte un masaje, explorando las áreas que requieran atención y cuidado. Este acto de autocuidado es una forma de honrar y apreciar tu cuerpo.
 
-Y en el caso de necesitarlo **Aprende más sobre masajes**; Visita el siguiente enlace donde encontrarás videos instructivos sobre cómo [realizar masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) a otra persona y cómo darte un [automasaje](#).
+Y en el caso de necesitarlo **Aprende más sobre masajes**; Visita el siguiente enlace donde encontrarás videos instructivos sobre cómo [realizar masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) a otra persona y cómo darte un [automasaje](https://www.youtube.com/watch?v=Z8PuwqxEn-8&t=228s).
 
 - **Higiene post-masaje**: Si lo deseas, utiliza el jabón proporcionado para lavar la piel después del masaje. Esto ayudará a que la piel se sienta más fresca y libre.
 

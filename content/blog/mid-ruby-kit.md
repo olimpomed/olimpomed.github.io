@@ -28,7 +28,7 @@ author: "Olimpo Medellin"
 
 - **Aplica** la cera tibia con suaves masajes en las áreas deseadas mientras visualizas tus metas de abundancia.
 
-Para aprender más sobre masajes que promueven la abundancia, visita el siguiente enlace donde encontrarás videos instructivos sobre cómo [realizar masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) que incentiven una mentalidad próspera, tanto para otra persona como para darte un [automasaje](#).
+Para aprender más sobre masajes que promueven la abundancia, visita el siguiente enlace donde encontrarás videos instructivos sobre cómo [realizar masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) que incentiven una mentalidad próspera, tanto para otra persona como para darte un [automasaje](https://www.youtube.com/watch?v=Z8PuwqxEn-8&t=228s).
 
 - **Higiene post-masaje**: Utiliza el jabón proporcionado para lavar la piel después del masaje, el cual contiene hierbas que promueven la riqueza y la purificación.
 

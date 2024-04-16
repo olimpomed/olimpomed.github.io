@@ -28,7 +28,7 @@ author: "Olimpo Medellin"
 
 - **Aplica** la cera tibia con movimientos ligeros y estimulantes mientras imaginas las diversas tierras y culturas que deseas explorar.
 
-Y para extender tus horizontes, Aprende más sobre masajes; visita el siguiente enlace donde encontrarás videos instructivos sobre [cómo realizar masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) a otra persona y cómo darte un [automasaje]().
+Y para extender tus horizontes, Aprende más sobre masajes; visita el siguiente enlace donde encontrarás videos instructivos sobre [cómo realizar masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) a otra persona y cómo darte un [automasaje](https://www.youtube.com/watch?v=Z8PuwqxEn-8&t=228s).
 
 - **Higiene post-masaje**: Emplea el jabón artesanal para limpiar la piel, dejándola fresca y lista para seguir explorando tus proyectos creativos.
 
