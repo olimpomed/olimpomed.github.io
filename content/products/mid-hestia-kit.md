@@ -7,9 +7,8 @@ draft: false
 description : "Amor propio, fortalece tu autoestima y el respeto personal. Conecta profundamente contigo."
 
 # product Price
-price: "30.000"
-priceBefore: "35.000"
-
+price: "35.000"
+priceBefore: "45.900"
 # Product Short Description
 shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
 

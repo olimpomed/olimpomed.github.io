@@ -7,8 +7,8 @@ draft: false
 description : "Atraer la abundancia y la riqueza"
 
 # product Price
-price: "30.000"
-priceBefore: "35.000"
+price: "35.000"
+priceBefore: "45.900"
 
 # Product Short Description
 shortDescription: "Atraer la abundancia y la riqueza"

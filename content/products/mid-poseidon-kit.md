@@ -7,8 +7,8 @@ draft: false
 description : "Intenciona las aventuras, los viajes, las experiencias"
 
 # product Price
-price: "30.000"
-priceBefore: "35.000"
+price: "35.000"
+priceBefore: "45.900"
 
 # Product Short Description
 shortDescription: "Intenciona las aventuras, los viajes, las experiencias"

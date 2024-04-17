@@ -7,8 +7,8 @@ draft: false
 description : "Fortalece la conexión, fomentando confianza, respeto y afecto. Ideal para revitalizar el amor"
 
 # product Price
-price: "30.000"
-priceBefore: "35.000"
+price: "35.000"
+priceBefore: "45.900"
 
 # Product Short Description
 shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
