@@ -11,7 +11,18 @@ price: "35.000"
 priceBefore: "45.900"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "Claro, aquí tienes una versión más concisa y en formato de lista:
+
+- 2 velas aromáticas para un ambiente relajante.
+
+- 1 vela de masaje que suaviza y nutre la piel.
+
+- 1 jabón artesanal con esencias calmantes.
+
+- 1 pieza de cerámica simbólica, que inspira conexión y fortaleza interior.
+
+
+Perfecto para un regalo de cuidado personal o para disfrutar de un momento de tranquilidad. Incluye acceso a una  <a href='{{ .Params.Link | absURL }}'>guía detallada de uso </a>para maximizar tu experiencia."
 
 #product ID
 productID: "3"
