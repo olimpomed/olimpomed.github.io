@@ -26,5 +26,6 @@ images:
   - image: "images/products/mid-eirene-kit-1.png"
 
 link: "https://olimpomed.github.io/blog/mid-eirene-kit/"
+comprar: "https://wa.me/p/7260533917334753/573011856316"
 ---
 

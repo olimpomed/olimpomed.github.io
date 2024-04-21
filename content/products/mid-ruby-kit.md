@@ -26,4 +26,5 @@ images:
   - image: "images/products/mid-ruby-kit-2.png"
 
 link: "https://olimpomed.github.io/blog/mid-ruby-kit/"
+comprar: "https://wa.me/p/7491673710892405/573011856316"
 ---

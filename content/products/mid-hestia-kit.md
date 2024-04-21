@@ -26,5 +26,6 @@ images:
   - image: "images/products/mid-hestia-kit-2.png"
 
 link: "https://olimpomed.github.io/blog/mid-hestia-kit/"
+comprar: "https://olimpomed.github.io/"
 ---
 

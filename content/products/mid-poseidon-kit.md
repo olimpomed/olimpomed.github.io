@@ -26,4 +26,5 @@ images:
   - image: "images/products/mid-poseidon-kit-1.png"
 
 link: "https://olimpomed.github.io/blog/mid-poseidon-kit/"
+comprar: "https://wa.me/p/7323992431046961/573011856316"
 ---

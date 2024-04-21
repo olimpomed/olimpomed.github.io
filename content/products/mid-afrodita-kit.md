@@ -26,5 +26,6 @@ images:
   - image: "images/products/mid-afrodita-kit-1.png"
 
 link: "https://olimpomed.github.io/blog/mid-afrodita-kit/"
+comprar: "https://wa.me/p/7397275117023881/573011856316"
 ---
 
