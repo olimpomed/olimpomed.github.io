@@ -1,5 +1,5 @@
 ---
-title: "Kit Poseiden (mediano)"
+title: "Kit Poseidon (mediano)"
 date: 2024-04-12T11:22:16+06:00
 draft: false
 
