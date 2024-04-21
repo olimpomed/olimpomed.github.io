@@ -25,7 +25,7 @@ link: "https://olimpomed.github.io/products/mid-temis-kit/"
 ### Paso 2: Uso y Beneficios
 - **Preparación**: Enciende la vela de masajes con mínimo 10 minutos de antelación para que la cera comience a fundirse, liberando sus propiedades estimulantes y energizantes.
 
-> Para complementar tu entorno de creatividad, te sugerimos realizar una [meditación guiada](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s), acompañada de un audio diseñado para guiarte hacia un estado de claridad mental y alegría.
+> Para complementar tu entorno de creatividad, te sugerimos realizar una [meditación guiada](https://www.youtube.com/@olimpomed_), acompañada de un audio diseñado para guiarte hacia un estado de claridad mental y alegría.
 
 - **Aplica** la cera tibia con movimientos ligeros y estimulantes sobre las áreas que requieran un impulso energético, facilitando la conexión con tu yo creativo.
 

@@ -26,7 +26,7 @@ link: "https://olimpomed.github.io/products/mid-eros-kit/"
 - **Preparación del masaje**: Enciende la vela de masajes al menos 10 minutos antes para que la cera se derrita adecuadamente y esté lista para usar.
 - **Masaje en pareja**: Uno de los dos puede comenzar realizando un masaje al otro con la cera tibia, utilizando movimientos suaves y relajantes. Luego, intercambien roles para que ambos disfruten de la experiencia.
 
-> Para complementar este momento, te sugerimos seguir una [meditación guiada para parejas](https://www.youtube.com/watch?v=4E4xl87Dcr8&t=17s), diseñada para fortalecer la conexión y la intimidad.
+> Para complementar este momento, te sugerimos seguir una [meditación guiada para parejas](https://www.youtube.com/@olimpomed_), diseñada para fortalecer la conexión y la intimidad.
 
 Y en el caso de necesitarlo **Aprende más sobre masajes**; Visita el siguiente enlace donde encontrarás un video instructivos sobre cómo [realizarle un masajes](https://www.youtube.com/watch?v=QRSf1nyrxls) a tu pareja.
 

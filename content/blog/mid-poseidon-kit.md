@@ -25,7 +25,7 @@ link: "https://olimpomed.github.io/products/mid-poseidon-kit/"
 ### Paso 2: Uso y Beneficios
 - **Preparación**: Enciende la vela de masajes con mínimo 10 minutos de antelación para que la cera comience a fundirse, liberando sus propiedades estimulantes y energizantes.
 
-> Embárcate en una [meditación guiada]() que te transporte a un viaje de autodescubrimiento, abriendo nuevos caminos de viajes y aventuras.
+> Embárcate en una [meditación guiada](https://www.youtube.com/@olimpomed_) que te transporte a un viaje de autodescubrimiento, abriendo nuevos caminos de viajes y aventuras.
 
 - **Aplica** la cera tibia con movimientos ligeros y estimulantes mientras imaginas las diversas tierras y culturas que deseas explorar.
 
