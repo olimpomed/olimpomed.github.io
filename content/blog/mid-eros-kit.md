@@ -5,6 +5,7 @@ draft: false
 description : "this is a meta description"
 image: "images/blog/post-7.webp"
 author: "Olimpo Medellin"
+link: "https://olimpomed.github.io/products/mid-eros-kit/"
 ---
 
 # Instrucciones para el Uso del Kit para Pareja

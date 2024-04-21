@@ -5,6 +5,7 @@ draft: false
 description : "this is a meta description"
 image: "images/blog/post-3.webp"
 author: "Olimpo Medellin"
+link: "https://olimpomed.github.io/products/mid-hestia-kit/"
 ---
 
 # Instrucciones para el Uso del Kit enfocado en la Purificación y Limpieza

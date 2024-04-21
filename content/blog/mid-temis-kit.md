@@ -5,6 +5,7 @@ draft: false
 description : "this is a meta description"
 image: "images/blog/post-6.webp"
 author: "Olimpo Medellin"
+link: "https://olimpomed.github.io/products/mid-temis-kit/"
 ---
 
 # Instrucciones para el Uso del Kit para Potenciar la Felicidad y la Creatividad

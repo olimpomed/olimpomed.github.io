@@ -5,6 +5,7 @@ draft: false
 description : "this is a meta description"
 image: "images/blog/post-2.webp"
 author: "Olimpo Medellin"
+link: "https://olimpomed.github.io/products/mid-afrodita-kit/"
 ---
 
 # Instrucciones para el Uso del Kit de Amor Propio y Auto Reflexión

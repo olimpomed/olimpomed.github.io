@@ -5,6 +5,7 @@ draft: false
 description : "this is a meta description"
 image: "images/blog/post-5.webp"
 author: "Olimpo Medellin"
+link: "https://olimpomed.github.io/products/mid-poseidon-kit/"
 ---
 
 # Instrucciones para el Uso del Kit para Viajes y Aventuras

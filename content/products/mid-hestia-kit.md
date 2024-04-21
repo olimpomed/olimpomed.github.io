@@ -9,6 +9,7 @@ description : "Amor propio, fortalece tu autoestima y el respeto personal. Conec
 # product Price
 price: "35.000"
 priceBefore: "45.900"
+
 # Product Short Description
 shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
 
