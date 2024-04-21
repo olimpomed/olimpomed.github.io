@@ -11,7 +11,16 @@ price: "35.000"
 priceBefore: "45.900"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "- 2 velas aromáticas.
+
+- 1 vela de masaje.
+
+- 1 jabón artesanal.
+
+- 1 pieza de cerámica.
+
+
+Este conjunto es perfecto para regalar o disfrutar en pareja, creando un espacio dedicado al descubrimiento y la celebración del erotismo. Incluye acceso a una  <a href='https://olimpomed.github.io/blog/mid-eros-kit/'>guía detallada de uso </a>para maximizar tu experiencia ayudando a cultivar una relación más apasionada y confiada."
 
 #product ID
 productID: "2"

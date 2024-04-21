@@ -11,18 +11,16 @@ price: "35.000"
 priceBefore: "45.900"
 
 # Product Short Description
-shortDescription: "Claro, aquí tienes una versión más concisa y en formato de lista:
+shortDescription: "- 2 velas aromáticas.
 
-- 2 velas aromáticas para un ambiente relajante.
+- 1 vela de masaje.
 
-- 1 vela de masaje que suaviza y nutre la piel.
+- 1 jabón artesanal.
 
-- 1 jabón artesanal con esencias calmantes.
-
-- 1 pieza de cerámica simbólica, que inspira conexión y fortaleza interior.
+- 1 pieza de cerámica.
 
 
-Perfecto para un regalo de cuidado personal o para disfrutar de un momento de tranquilidad. Incluye acceso a una  <a href='{{ .Params.Link | absURL }}'>guía detallada de uso </a>para maximizar tu experiencia."
+Ideal para regalar un momento de cuidado personal o para disfrutar de un espacio de tranquilidad personal. Incluye acceso a una  <a href='https://olimpomed.github.io/blog/mid-afrodita-kit/'>guía detallada de uso </a>para maximizar tu experiencia de conexión personal."
 
 #product ID
 productID: "3"
@@ -36,7 +34,6 @@ images:
   - image: "images/products/mid-afrodita-kit-2.png"
   - image: "images/products/mid-afrodita-kit-1.png"
 
-link: "https://olimpomed.github.io/blog/mid-afrodita-kit/"
 comprar: "https://wa.me/p/7397275117023881/573011856316"
 ---
 

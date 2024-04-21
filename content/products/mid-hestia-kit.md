@@ -11,7 +11,16 @@ price: "35.000"
 priceBefore: "45.900"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "- 2 velas aromáticas.
+
+- 1 vela de masaje.
+
+- 1 jabón artesanal.
+
+- 1 pieza de cerámica.
+
+
+Perfecto para un regalo que fomenta la conexión emocional y el apoyo mutuo, o para disfrutar de una experiencia de unión y comprensión grupal. Incluye acceso a una  <a href='https://olimpomed.github.io/blog/mid-hestia-kit/'>guía detallada de uso </a>para maximizar las interacciones empáticas y profundizar las relaciones personales."
 
 #product ID
 productID: "3"

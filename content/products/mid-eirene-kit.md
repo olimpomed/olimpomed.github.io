@@ -11,7 +11,16 @@ price: "35.000"
 priceBefore: "45.900"
 
 # Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
+shortDescription: "- 2 velas aromáticas.
+
+- 1 vela de masaje.
+
+- 1 jabón artesanal.
+
+- 1 pieza de cerámica.
+
+
+Ideal para regalar un momento de autocuidado o para disfrutar personalmente de una atmósfera de profunda paz. Incluye acceso a una  <a href='https://olimpomed.github.io/blog/mid-eirene-kit/'>guía detallada de uso </a>para maximizar tu experiencia relajante."
 
 #product ID
 productID: "1"

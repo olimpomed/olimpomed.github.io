@@ -11,7 +11,16 @@ price: "35.000"
 priceBefore: "45.900"
 
 # Product Short Description
-shortDescription: "Intenciona las aventuras, los viajes, las experiencias"
+shortDescription: "- 2 velas aromáticas para un ambiente relajante.
+
+- 1 vela de masaje que suaviza y nutre la piel.
+
+- 1 jabón artesanal con esencias calmantes.
+
+- 1 pieza de cerámica simbólica, que inspira conexión y fortaleza interior.
+
+
+Ideal para un regalo de exploración personal o para acompañarte en tu próxima gran aventura. Incluye acceso a una  <a href='https://olimpomed.github.io/blog/mid-poseidon-kit/'>guía detallada de uso </a>que te ayuda a llevar estos aromas y sensaciones en cada paso de tu viaje."
 
 #product ID
 productID: "2"
