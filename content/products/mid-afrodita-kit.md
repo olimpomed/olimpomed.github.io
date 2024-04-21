@@ -24,5 +24,7 @@ type: "products"
 images:
   - image: "images/products/mid-afrodita-kit-2.png"
   - image: "images/products/mid-afrodita-kit-1.png"
+
+link: "https://olimpomed.github.io/blog/mid-afrodita-kit/"
 ---
 

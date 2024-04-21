@@ -24,5 +24,7 @@ type: "products"
 images:
   - image: "images/products/mid-eirene-kit-2.png"
   - image: "images/products/mid-eirene-kit-1.png"
+
+link: "https://olimpomed.github.io/blog/mid-eirene-kit/"
 ---
 

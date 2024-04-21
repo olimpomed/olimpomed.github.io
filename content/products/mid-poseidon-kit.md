@@ -24,4 +24,6 @@ type: "products"
 images:
   - image: "images/products/mid-poseidon-kit-2.png"
   - image: "images/products/mid-poseidon-kit-1.png"
+
+link: "https://olimpomed.github.io/blog/mid-poseidon-kit/"
 ---

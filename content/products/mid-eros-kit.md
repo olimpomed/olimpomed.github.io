@@ -25,4 +25,6 @@ images:
   - image: "images/products/mid-eros-kit-2.png"
   - image: "images/products/mid-eros-kit-3.png"
   - image: "images/products/mid-eros-kit-1.png"
+
+link: "https://olimpomed.github.io/blog/mid-eros-kit/"
 ---

@@ -24,5 +24,7 @@ type: "products"
 images:
   - image: "images/products/mid-hestia-kit-1.png"
   - image: "images/products/mid-hestia-kit-2.png"
+
+link: "https://olimpomed.github.io/blog/mid-hestia-kit/"
 ---
 
