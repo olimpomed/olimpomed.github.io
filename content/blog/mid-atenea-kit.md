@@ -27,7 +27,7 @@ link: "https://olimpomed.github.io/products/mid-atenea-kit/"
 - **Aplica** la cera tibia con suaves masajes en las áreas deseadas.
 
 ### Paso 3: Meditación y Autoconocimiento
-> Inicia una meditación guiada siguiendo [este enlace](https://www.youtube.com/@olimpomed_). Este audio está diseñado para proporcionarte un espacio que incentiva la clarificación de tu mente.
+> Inicia una meditación guiada siguiendo [este enlace](https://www.youtube.com/watch?v=XztqZyCM-rA). Este audio está diseñado para proporcionarte un espacio que incentiva la clarificación de tu mente.
 
 Afinando tu voz interior, ayudándote a encontrar las respuestas y la dirección que buscas en tu vida.
 
