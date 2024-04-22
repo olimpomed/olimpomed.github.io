@@ -10,12 +10,6 @@ link: "https://olimpomed.github.io/products/mid-poseidon-kit/"
 
 # Instrucciones para el Uso del Kit para Viajes y Aventuras
 
-**Contenido del Kit:**
-1. Dos velas aromáticas de colores.
-2. Una vela de masajes.
-3. Una bandeja de cerámica.
-4. Un jabón artesanal.
-
 ### Paso 1: Preparación del Espacio
 - **Ubica** la bandeja de cerámica en un lugar seguro y estable un lugar ideal para iniciar un viaje de descubrimientos y aventuras.
 - **Decide** el tipo de experiencia que buscas:

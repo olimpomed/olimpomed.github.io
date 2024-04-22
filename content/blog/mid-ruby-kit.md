@@ -10,12 +10,6 @@ link: "https://olimpomed.github.io/products/mid-ruby-kit/"
 
 # Instrucciones para el Uso del Kit de Bienestar y Prosperidad
 
-**Contenido del Kit:**
-1. Dos velas aromáticas de colores asociados con la prosperidad (dorado y verde).
-2. Una vela de masajes con esencia de canela y esencias que atraen la abundancia.
-3. Una bandeja de cerámica dorada.
-4. Un jabón artesanal con hierbas que promueven la riqueza.
-
 ### Paso 1: Preparación del Espacio
 - **Ubica** la bandeja de cerámica en un lugar seguro y estable de tu hogar donde desees atraer prosperidad y relajarte.
 - **Decide** el tipo de experiencia que deseas tener, enfocada en atraer abundancia:

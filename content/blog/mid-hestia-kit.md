@@ -10,12 +10,6 @@ link: "https://olimpomed.github.io/products/mid-hestia-kit/"
 
 # Instrucciones para el Uso del Kit enfocado en la Purificación y Limpieza
 
-**Contenido del Kit:**
-1. Dos velas aromáticas de colores.
-2. Una vela de masajes.
-3. Una bandeja de cerámica.
-4. Un jabón artesanal.
-
 ### Paso 1: Preparación del Espacio
 - **Ubica** la bandeja de cerámica en un lugar seguro y estable de tu hogar donde desees relajarte y purificar el ambiente.
 - **Decide** el tipo de experiencia que deseas tener enfocándote en la purificación y limpieza de tu espacio:

@@ -4,7 +4,7 @@ date: 2024-04-12T11:22:16+06:00
 draft: false
 
 # meta description
-description : "Amor propio, fortalece tu autoestima y el respeto personal. Conecta profundamente contigo."
+description : "La purificacion y limpieza de tu espacio"
 
 # product Price
 price: "35.000"

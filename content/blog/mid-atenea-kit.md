@@ -10,12 +10,6 @@ link: "https://olimpomed.github.io/products/mid-atenea-kit/"
 
 # Instrucciones para el Uso del Kit de Bienestar y Relajación
 
-**Contenido del Kit:**
-1. Dos velas aromáticas de colores.
-2. Una vela de masajes.
-3. Una bandeja de cerámica.
-4. Un jabón artesanal.
-
 ### Paso 1: Preparación del Espacio
 - **Ubica** la bandeja de cerámica en un lugar seguro y estable de tu hogar donde desees relajarte.
 - **Decide** el tipo de experiencia que deseas tener. Enciende una de las velas según tu necesidad:

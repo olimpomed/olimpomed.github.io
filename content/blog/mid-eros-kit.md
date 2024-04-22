@@ -10,12 +10,6 @@ link: "https://olimpomed.github.io/products/mid-eros-kit/"
 
 # Instrucciones para el Uso del Kit para Pareja
 
-**Contenido del Kit:**
-1. Dos velas aromáticas de colores.
-2. Una vela de masajes.
-3. Una bandeja de cerámica.
-4. Dos jabones artesanales.
-
 ### Paso 1: Creación del Ambiente Romántico
 - **Ubica** la bandeja de cerámica en un lugar seguro y cómodo de tu hogar, ideal para compartir con tu pareja.
 - **Elige** el tipo de experiencia romántica que deseas crear. Enciende las velas según el ambiente que quieras lograr:

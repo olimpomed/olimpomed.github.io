@@ -10,12 +10,6 @@ link: "https://olimpomed.github.io/products/mid-temis-kit/"
 
 # Instrucciones para el Uso del Kit para Potenciar la Felicidad y la Creatividad
 
-**Contenido del Kit:**
-1. Dos velas aromáticas de colores.
-2. Una vela de masajes.
-3. Una bandeja de cerámica.
-4. Un jabón artesanal.
-
 ### Paso 1: Preparación del Espacio
 - **Ubica** la bandeja de cerámica en un lugar seguro y estable de tu hogar donde desees fomentar un ambiente propicio para la inspiración que buscas.
 - **Decide** el tipo de experiencia que buscas:
